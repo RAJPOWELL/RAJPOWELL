@@ -1,12 +1,20 @@
 # 👋 Hi, I'm Raj Powell!
 
-🎓 **Bachelor of Engineering in AI & Machine Learning** (2024)    ![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAJPOWELL&show_icons=true&theme=radical)
-🏫 **BMS Institute of Technology and Management, Bangalore**      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJPOWELL&layout=compact&theme=radical)
+🎓 **Bachelor of Engineering in AI & Machine Learning** (2024)    
+🏫 **BMS Institute of Technology and Management, Bangalore**     
 
 📧 **Contact**: [rajpowell153@gmail.com](mailto:rajpowell153@gmail.com)  
 🔗 **LinkedIn**: [Raj Powell](https://www.linkedin.com/in/rajpowell)  
 💻 **GitHub**: [RAJPOWELL](https://github.com/RAJPOWELL)  
 🌐 **Location**: Bangalore, India
+
+---
+
+## 📊 GitHub Stats
+
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAJPOWELL&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJPOWELL&layout=compact&theme=radical)
 
 ---
 
@@ -87,12 +95,6 @@ Technologies: Python, Pandas, Seaborn
 - Full Stack Development with MERN – CISCO Thing Qbator  
 - NDG Linux Unhatched – CISCO  
 - JavaScript Essentials – CISCO
-
----
-
-## 📊 GitHub Stats
-
-
 
 ---
 
