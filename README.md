@@ -90,6 +90,14 @@ Technologies: Python, Pandas, Seaborn
 
 ---
 
+## 📊 GitHub Stats
+
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAJPOWELL&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJPOWELL&layout=compact&theme=radical)
+
+---
+
 Feel free to reach out or check out my projects!  
 📧 [rajpowell153@gmail.com](mailto:rajpowell153@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rajpowell) | [GitHub](https://github.com/RAJPOWELL)
