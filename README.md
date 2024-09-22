@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raj Powell!
 
-🎓 **Bachelor of Engineering in Artificial Intelligence & Machine Learning** (2024)   
+🎓 **Bachelor of Engineering in Artificial Intelligence & Machine Learning** (2024) 
 🏫 **BMS Institute of Technology and Management, Bangalore**     
 
 📧 **Contact**: [rajpowell153@gmail.com](mailto:rajpowell153@gmail.com)  
