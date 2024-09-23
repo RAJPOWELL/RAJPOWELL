@@ -5,7 +5,7 @@
 
 📧 **Contact**: [rajpowell153@gmail.com](mailto:rajpowell153@gmail.com) 
 🔗 **LinkedIn**: [Raj Powell](https://www.linkedin.com/in/rajpowell)   
-💻 **GitHub**: [RAJPOWELL](https://github.com/RAJPOWELL)   
+💻 **GitHub**: [RAJPOWELL](https://github.com/RAJPOWELL)    
 🌐 **Location**: Bangalore, India
 
 ---
