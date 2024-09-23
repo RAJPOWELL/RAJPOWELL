@@ -4,7 +4,7 @@
 🏫 **BMS Institute of Technology and Management, Bangalore**      
 
 📧 **Contact**: [rajpowell153@gmail.com](mailto:rajpowell153@gmail.com) 
-🔗 **LinkedIn**: [Raj Powell](https://www.linkedin.com/in/rajpowell)  
+🔗 **LinkedIn**: [Raj Powell](https://www.linkedin.com/in/rajpowell)   
 💻 **GitHub**: [RAJPOWELL](https://github.com/RAJPOWELL) 
 🌐 **Location**: Bangalore, India
 
